@@ -1,0 +1,23 @@
+Priority: High
+Severity: Major
+Reproducibility: Always
+Platform: LG-X145
+OS: Android
+OS Version: 4.4.2
+
+Summary: The "Buy premium version" button is superimposed on the copyright data in the bottom of the main screen
+
+Description: The "Buy premium version" button is superimposed on the copyright data in the bottom of the main screen
+
+Steps To Reproduce:
+
+1. Open the "Convert Currency" application
+2. Pay attention to the "Buy premium version" button
+
+Actual result: The "Buy premium version" button is superimposed on the copyright data in the bottom of the main screen
+
+Expected result: The "Buy premium version" button is not superimposed on the copyright data in the bottom of the main screen
+
+Attached Files:
+
+bug0365268.jpg
