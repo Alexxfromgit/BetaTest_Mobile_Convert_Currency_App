@@ -12,9 +12,9 @@ Very user friendly user interface.
 
 Premium version comes with offline support and no ads.
 
-Languages available: 
-⋅⋅* English
-⋅⋅* Afrikaans
+*Languages available:*
+* English
+* Afrikaans
 ⋅⋅* Arabic
 ⋅⋅* Czech
 ⋅⋅* Danish
